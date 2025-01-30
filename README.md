@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Shiva Maurya</h1>
+<h1 align="center">🚀 Shiva CW Coder</h1>
 <h3 align="center">Innovating the Future with Code & AI</h3>
 
 ---
