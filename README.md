@@ -24,7 +24,6 @@
 </p>
 
 ### ⚡ **Let's Connect**
-📩 **Email:** hak44189@gmail.com  
-🔗 **Portfolio:** [Your Portfolio Link]  
+📩 **Email:** hak44189@gmail.com    
 📺 **YouTube:** [Shiva CW Coder](www.youtube.com/@Shiva-Coder)  
 
